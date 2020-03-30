@@ -67,3 +67,7 @@ img:hover{
 body{
   background-image: url("../images/white-wood.jpg")
 }
+
+body{
+  background: linear-gradient(white, gray, black) 
+}
